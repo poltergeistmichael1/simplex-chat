@@ -27,7 +27,7 @@ else
   exit 1
 fi
 
-# / Prepare to upgrade from v0 to v1
+# / Prepar oke to upgrade from v0 to v1
 
 # Determine path of chat binary
 if [[ -n "$(which $APP_NAME)" ]]; then
